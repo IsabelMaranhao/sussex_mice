@@ -16,4 +16,4 @@ This project analyzes neural activity in mice using PCA, running windows, and re
 
 ## Notes
 
-- Presentation with key results: `mice/Results_PPC_presentation.ppt`
+- Presentation with key results: `Results_PPC_presentation.ppt`
