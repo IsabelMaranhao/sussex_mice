@@ -12,7 +12,6 @@ This project analyzes neural activity in mice using PCA, running windows, and re
       - PCA/dimensionality reduction applied across **time** or **neural activity**
     - Most results are saved as CSV files (e.g., `test_accuracy_*.csv`)
     
-- `.ipynb_checkpoints/`: Jupyter autosaves (ignored by Git)
 
 ## Notes
 
